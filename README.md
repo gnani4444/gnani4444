@@ -183,11 +183,14 @@ Reads company names + job keywords from Sheets → discovers career pages via Go
 
 ---
 
-## Awards
+## Awards & Hackathons
 
 - **Fractal Client Champion** — Outstanding client delivery and business impact
 - **Hackathon 1st Place** — Audience Builder; presented to Chief Practice Officer
 - **Multiple Kaizen Awards** — Continuous improvement and process excellence
+- **Mistral London Hackathon** (2026) — Competed in Mistral AI's London hackathon building with frontier models
+- **[Voice AI Hackathon](https://github.com/Sahid-m/voice_ai_hack)** (2026) — Built **RepVoice**, a voice AI OS for UK pharma field reps: speak your post-call summary, it handles CRM fields, MHRA adverse event alerts, Veeva auto-fill, and voice-briefs you on your next visit. Voice in. Paperwork out.
+- **[Future Founders Hackathon - AWS](https://github.com/gnani4444/founderos/)** (2026) — Built **FounderOS**, an AI-powered operating system for early-stage founders that increases productivity by automating tasks using AI agents.
 
 ---
 
