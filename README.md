@@ -2,9 +2,9 @@
 
 # Gnaneshwar Vanam
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+AI+%2F+ML+Engineer;GenAI+Architect+%7C+7+Years+in+Production+AI;15%2B+Models+Deployed+to+Production;Building+AI+that+actually+ships)](https://readme-typing-svg.demolab.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Senior+Data+Scientist+%C2%B7+FDE+%40+Braze;GenAI+Architect+%7C+7%2B+Years+in+Production+AI;15%2B+Models+Deployed+to+Production;Building+AI+that+actually+ships)](https://readme-typing-svg.demolab.com)
 
-**London, UK | Looking for New Opportunities**
+**London, UK | Senior Data Scientist – FDE @ Braze | Looking for New Opportunities**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-gnaneshwarvanam.in-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.gnaneshwarvanam.in/)
 [![Email](https://img.shields.io/badge/Email-vanamgnaneshwar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanamgnaneshwar@gmail.com)
@@ -17,18 +17,19 @@
 
 ## About Me
 
-Seven years building production AI/ML systems — from fine-tuned LLMs and GenAI agents to classic supervised learning that ships at scale.
+Seven+ years building production AI/ML systems — from fine-tuned LLMs and GenAI agents to classic supervised learning that ships at scale.
 
-I work across the full ML lifecycle: **problem framing → feature engineering → training → productionisation → monitoring**. Deployed at Google, Meta, and Humana through Fractal AI.
+I work across the full ML lifecycle: **problem framing → feature engineering → training → productionisation → monitoring**. Now forward-deployed at **Braze**, shipping AI Decisioning for EMEA enterprise customers. Previously deployed at Google, Meta, and Humana through Fractal AI.
 
 ```python
 profile = {
-    "role":       "Senior AI/ML Engineer · GenAI Architect",
+    "role":       "Senior Data Scientist · FDE",
+    "company":    "Braze",
     "location":   "London, UK 🇬🇧",
-    "experience": "7 years in production ML",
-    "impact":     ["15+ models deployed", "significant business impact", "10,000+ hours automated/yr"],
+    "experience": "7+ years in production ML",
+    "impact":     ["15+ models deployed", "$500K+ incremental customer revenue", "10,000+ hours automated/yr"],
     "education":  "B.Tech · IIT Bhubaneswar",
-    "interests":  ["Agentic AI", "LLM Fine-Tuning", "RAG Systems", "MLOps"],
+    "interests":  ["Agentic AI", "Voice Agents", "RAG Systems", "Evals", "MLOps"],
 }
 ```
 
@@ -45,12 +46,15 @@ profile = {
 
 **Generative AI & LLMs**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain%20%2F%20LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code%20%2F%20Agent%20SDK%20%2F%20MCP-CC785C?style=flat-square&logo=anthropic&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20%2F%20Gemini-CC785C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG%20%2F%20Prompt%20Engineering-FF6B35?style=flat-square)
 ![LoRA](https://img.shields.io/badge/LLM%20Fine--Tuning%20(LoRA%2FQLoRA)-7B2D8B?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS%20%2F%20Vector%20DBs-00B4D8?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs%20%2F%20Voice%20Agents-000000?style=flat-square&logo=elevenlabs&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20%2F%20Agent%20Observability-425CC7?style=flat-square&logo=opentelemetry&logoColor=white)
 
 **ML & Deep Learning**
 
@@ -66,6 +70,7 @@ profile = {
 ![Azure](https://img.shields.io/badge/Azure%20ML%20%2F%20DevOps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD%20%2F%20Model%20Monitoring-6E40C9?style=flat-square)
 
 **Backend & Frontend**
@@ -74,13 +79,29 @@ profile = {
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
 ---
 
 ## Work Experience
 
+### Braze · Senior Data Scientist – FDE
+`Jun 2026 – Present`
+
+| Project | What I Built | Impact |
+|---------|-------------|--------|
+| **AI Decisioning Studio Deployments** | End-to-end rollout for 2 EMEA enterprise customers: data model design, use-case scoping, replacing rule-based campaigns with per-user model-selected messaging; holdout measurement | 10% revenue growth · $500K+ incremental revenue in 3 months |
+| **Agentic Knowledge System** | Agentic RAG layer unifying customer meeting transcripts, docs and decks: hybrid semantic + keyword retrieval, reranking, tool-calling agents for multi-step queries | One searchable intelligence store for the FDE team |
+
+`Braze AI Decisioning · Python · SQL · RAG · Vector DB · Reranking · LLM Tool Use · FastAPI · A/B & Holdout Testing`
+
+---
+
+*Previously Senior Data Scientist – AI at Fractal AI, forward-deployed with the clients below.*
+
 ### Google (Fractal AI) · Senior AI Engineer
-`Apr 2025 – Present`
+`Apr 2025 – May 2026`
 
 | Project | What I Built | Impact |
 |---------|-------------|--------|
@@ -120,7 +141,50 @@ profile = {
 
 ## Featured Projects
 
-### [Truth Verifier](https://www.truthverifier.in/) · AI Health Misinformation Detector
+### [PolicyTruth](https://github.com/gnani4444/policytruth) · Privacy Policy vs. Reality Checker *(Encode London 2026)*
+> *"An MOT for your privacy policy."* · [Live demo](https://policytruth-seven.vercel.app)
+
+A Gemini agent inspects a website, reads every policy it can find, and fails anything the two disagree on. A verifier throws out every claim it cannot prove; nothing is drafted until a human approves it. Full audit trail in MongoDB Atlas.
+
+`Next.js` · `Gemini function calling` · `MongoDB Atlas` · `Verification loop` · `Human-in-the-loop`
+
+---
+
+### [Handover: The AI Apprentice](https://github.com/gnani4444/handover-ai-apprentice) · Expert Knowledge Capture *(Hack-Nation 7 · ElevenLabs)*
+> *A retiring expert's judgment, kept in her own words and voice, in any language.* · [Live demo](https://handover-ai-apprentice.vercel.app)
+
+Captures an expert's workflow by voice, turns it into a Work Map of steps, judgment calls and guardrails, then trains the next person on it with replay, gating and a mastery report.
+
+`Next.js` · `ElevenLabs Agents` · `Scribe STT` · `Supabase` · `Vercel`
+
+---
+
+### [Club Bot](https://github.com/gnani4444/club-bot) · WhatsApp Bot for Sports Clubs *(Grok Bot Community Eng London Hackathon)*
+
+Runs a weekly sports session end to end: finds courts, runs the vote, posts the booking link, collects fees, sends personal reminders, and auto-fills drop-outs from the waitlist. Badminton and tennis built in; a new sport is one file.
+
+`Node.js` · `TypeScript` · `Baileys (WhatsApp)` · `Supabase` · `Cognee` · `Notion`
+
+---
+
+### [Conduit](https://github.com/gnani4444/conduit) · Agent Observability & Reliability Shim · Open Source
+
+Cross-framework shim that intercepts agent tool calls via OpenTelemetry, validates schemas, detects loops and injects recovery context — in under 5 ms, without changing your agent code.
+
+`Python` · `OpenTelemetry` · `LangGraph` · `CrewAI` · `Agent Reliability`
+
+---
+
+### [FounderOS](https://github.com/gnani4444/founderos) · Chief of Staff AI for Founders *(Future Founders Hackathon · AWS)*
+
+Autonomous multi-agent system that triages email, schedules meetings and sends daily briefings across Gmail, Slack and Calendar.
+
+`Python` · `LangGraph` · `GPT-4o` · `Gmail / Slack / Calendar APIs`
+
+---
+
+### [Truth Verifier](https://github.com/gnani4444/truth_verifier) · AI Health Misinformation Detector
+> [Live site](https://www.truthverifier.in/)
 
 **The problem:** Health misinformation spreads fast on social media. A single viral reel claiming "this herb cures diabetes" or "vaccines cause autism" reaches millions before anyone checks whether it's true. Most people have no quick way to verify health claims they encounter online — they either trust them blindly or spend 30 minutes Googling.
 
@@ -188,6 +252,9 @@ Reads company names + job keywords from Sheets → discovers career pages via Go
 - **Fractal Client Champion** — Outstanding client delivery and business impact
 - **Hackathon 1st Place** — Audience Builder; presented to Chief Practice Officer
 - **Multiple Kaizen Awards** — Continuous improvement and process excellence
+- **[Encode London 2026](https://github.com/gnani4444/policytruth)** — Built **PolicyTruth**, a Gemini agent that checks whether a website actually does what its privacy policy says.
+- **[Hack-Nation 7 · ElevenLabs Challenge](https://github.com/gnani4444/handover-ai-apprentice)** (2026) — Built **Handover**, a voice-first AI apprentice that captures a retiring expert's judgment.
+- **[Grok Bot Community Eng London Hackathon](https://github.com/gnani4444/club-bot)** (Oct 2026, Wildcard track) — Built **Club Bot**, a WhatsApp bot that runs weekly sports sessions.
 - **Mistral London Hackathon** (2026) — Competed in Mistral AI's London hackathon building with frontier models
 - **[Voice AI Hackathon](https://github.com/Sahid-m/voice_ai_hack)** (2026) — Built **RepVoice**, a voice AI OS for UK pharma field reps: speak your post-call summary, it handles CRM fields, MHRA adverse event alerts, Veeva auto-fill, and voice-briefs you on your next visit. Voice in. Paperwork out.
 - **[Future Founders Hackathon - AWS](https://github.com/gnani4444/founderos/)** (2026) — Built **FounderOS**, an AI-powered operating system for early-stage founders that increases productivity by automating tasks using AI agents.
